@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:serif="http://www.serif.com/" width="100%" height="100%" viewBox="0 0 600 600" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-685,0)">
+        <g id="guarantee" transform="matrix(1,0,0,1,685,0)">
+            <rect x="0" y="0" width="600" height="600" style="fill:none;"></rect>
+            <rect x="0" y="0" width="600" height="600" style="fill:rgb(108,50,108);"></rect>
+            <g transform="matrix(1,0,0,1,-757.352,-38.682)">
+                <text x="905.852px" y="470.727px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:120px;fill:white;">Y<tspan x="979.539px 1052.76px 1135.17px " y="470.727px 470.727px 470.727px ">EAR</tspan></text>
+            </g>
+            <g transform="matrix(1,0,0,1,-798.836,99.568)">
+                <text x="928.43px" y="233.336px" style="font-family:'OpenSans-Bold', 'Open Sans', sans-serif;font-weight:700;font-size:320px;fill:white;">1<tspan x="1079.09px " y="233.336px ">0</tspan></text>
+            </g>
+            <g transform="matrix(1,0,0,1,-728.168,24.6391)">
+                <text x="872.047px" y="474px" style="font-family:'OpenSans', 'Open Sans', sans-serif;font-size:50px;fill:white;">G<tspan x="911.148px 949.761px 984.102px 1017.71px 1052.05px 1092.45px 1122.81px 1153.32px " y="474px 474px 474px 474px 474px 474px 474px 474px ">UARANTEE</tspan></text>
+            </g>
+        </g>
+    </g>
+</svg>
